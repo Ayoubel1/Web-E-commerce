@@ -1,0 +1,16 @@
+
+a:visited, 
+a:hover{
+	text-decoration: none !important;
+} 
+
+/*la taille de toute le document */
+html{
+	height :100% ;
+}
+
+/*important: car on est déjà inclus le bootstrap*/
+.main{
+	height: 100% !important ;
+}
+
